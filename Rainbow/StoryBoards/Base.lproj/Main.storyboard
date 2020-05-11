@@ -6,7 +6,7 @@
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
     <scenes>
-        <!--Table View Controller-->
+        <!--Rainbow-->
         <scene sceneID="ggU-um-Qgn">
             <objects>
                 <tableViewController id="8Ap-nl-zGv" sceneMemberID="viewController">
@@ -38,7 +38,7 @@
                             <outlet property="delegate" destination="8Ap-nl-zGv" id="8c8-jl-RzB"/>
                         </connections>
                     </tableView>
-                    <navigationItem key="navigationItem" id="IU4-Ov-pke"/>
+                    <navigationItem key="navigationItem" title="Rainbow" id="IU4-Ov-pke"/>
                 </tableViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="KQC-pQ-SXM" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
